@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "ccapture.js": "^1.0.7",
+    "convnetjs": "^0.3.0",
+    "deeplearn": "^0.5.0",
+    "synaptic": "^1.1.4"
+  },
+  "name": "this-is-a-picture-of",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jfw7/this-is-a-picture-of.git",
+  "author": "Jonathan Wall <jwall@peopledesigns.com>",
+  "license": "MIT"
+}
