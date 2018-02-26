@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "canvas-video-generator": "^1.0.0",
     "ccapture.js": "^1.0.7",
     "convnetjs": "^0.3.0",
     "deeplearn": "^0.5.0",
